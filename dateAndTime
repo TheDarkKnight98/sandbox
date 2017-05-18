@@ -5,6 +5,7 @@ Date and Time
 </title>
 </head>
 <body>
+//https://jonthornton.github.io/Datepair.js/
 <p id="basicExample">
     <input type="text" class="date start" />
     <input type="text" class="time start" /> to
